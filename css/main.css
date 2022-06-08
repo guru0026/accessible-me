@@ -79,10 +79,16 @@ form textarea {
 }
 
 form button {
-  background: none;
+  background-color: black;
+  color: white;
   border: 2px solid black;
   padding: 1rem;
   text-transform: uppercase;
+}
+
+input, textarea {
+  background-color: black;
+  color: white;
 }
 
 .site-footer {
